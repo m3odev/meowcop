@@ -5,22 +5,20 @@
 
 ## My Specs (¬_¬ )
 
-- Windows 10 Pro
+- Windows XP
 - CPU : Intel core i5 6600 (3.3 GHz , 4 Cores, 4 Threads)
 - Ram : HyperX 16GB (2x8GB) DDR4 2133Mhz
 - GPU : MSI RX 580 8GB
 - SSD : SSD WD Green 240GB SATA
 - Monitor : HKC 27" FHD 144HZ - BENQ 27" FHD 60HZ
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Meow Spotify Playing" width="350" />](https://open.spotify.com/user/31l7n3kju3dkigcvnhg6edw5swdm)
+[![Meow](https://media.giphy.com/media/4mXjpVNJAFlvi/giphy.gif)](https://hoanggiap.name.vn/?utm_source=github&utm_medium=github_profile)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Meow" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Meow | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Meow | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -56,7 +54,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Meow GitHub Stats" src="#" />
-  [![J2TEAM](dino.gif)](https://j2team.dev/?utm_source=github&utm_medium=github_profile)
 
 </details>
 
