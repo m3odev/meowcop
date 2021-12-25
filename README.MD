@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/badge/Website-Up-brightgreen?style=for-the-badge&logo=)](https://hoanggiap.name.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-11k-brightgreen?style=for-the-badge&logo=facebook)](https://www.facebook.com/mewcop/)
-
 ## My Specs (¬_¬ )
 
 - Windows XP
@@ -61,3 +60,5 @@
 [twitter]: https://twitter.com/meow_cop
 [youtube]: https://youtube.com/UC330EL20nYU5eX3wbramFEA
 [instagram]: https://instagram.com/mewcop_
+
+![GitHub](https://komarev.com/ghpvc/?username=meowcop&color=brightgreen&label=Visist&logo=github)
