@@ -11,7 +11,7 @@
 - SSD : SSD WD Green 240GB SATA
 - Monitor : HKC 27" FHD 144HZ - BENQ 27" FHD 60HZ
 
-[![Meow](https://media.giphy.com/media/4mXjpVNJAFlvi/giphy.gif)](https://hoanggiap.name.vn/?utm_source=github&utm_medium=github_profile)
+<a href="https://app.daily.dev/meowcop"><img src="https://api.daily.dev/devcards/94b0304854c44411b66352dcfc46d02e.png?r=k5m" width="400" alt="Meow's Dev Card"/></a>
 
 ### Connect with me:
 
