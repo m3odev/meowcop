@@ -5,10 +5,10 @@
 ## My Specs (¬_¬ )
 
 - Windows XP
-- CPU : Intel core i5 6600 (3.3 GHz , 4 Cores, 4 Threads)
-- Ram : HyperX 16GB (2x8GB) DDR4 2133Mhz
-- GPU : MSI RX 580 8GB
-- SSD : SSD WD Green 240GB SATA
+- CPU : Intel Xeon E5-2696 v4 (3.3 GHz , 44 Cores, 88 Threads)
+- Ram : Samsung ECC 32GB (8x32GB) DDR4 2133Mhz
+- GPU : MSI RTX 3080 - 10GB
+- SSD : SSD Samsung NVME 500GB
 - Monitor : HKC 27" FHD 144HZ - BENQ 27" FHD 60HZ
 
 <a href="https://app.daily.dev/meowcop"><img src="https://api.daily.dev/devcards/94b0304854c44411b66352dcfc46d02e.png?r=k5m" width="400" alt="Meow's Dev Card"/></a>
